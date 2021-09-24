@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExFCM</string>ㄴ
+    <string name="default_notification_channel_id">lecture.fcmtest.cho_sy</string>
+</resources>

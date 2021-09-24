@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848168026711",
+    "project_id": "exfcm-8c698",
+    "storage_bucket": "exfcm-8c698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848168026711:android:2bae27890ffa575e495912",
+        "android_client_info": {
+          "package_name": "com.mx.exfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848168026711-3j0gorukau2mof03m9v45cgagf7kn713.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mx.exfcm",
+            "certificate_hash": "a4984a1eea32941d63fdeeeb38494e0f849b5a6b"
+          }
+        },
+        {
+          "client_id": "848168026711-e1na5nhfafskucedh6fcph3mn6aln8io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY0_8AA0ZPkG7qzBk5u1aq3vwTFq07Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848168026711-e1na5nhfafskucedh6fcph3mn6aln8io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
